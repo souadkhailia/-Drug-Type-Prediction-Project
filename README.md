@@ -1,5 +1,11 @@
 # Drug-Type-Prediction-Project
 The goal of this project is to leverage data science techniques to assist doctors in recommending the best type of drug treatment for at-risk patients.The dataset provided contains information about patients, and the objective is to predict the drug type based on various features. The project involves building and comparing different machine learning models, tuning hyperparameters, and selecting the best-performing model.
+
+<p align = "center"> 
+  <img src = "https://github.com/souadkhailia/Drug-Type-Prediction-Project/blob/05d346804e60edecfe3b6eec55cdfaa2a57f3854/images.jfif">
+</p>
+
+                                            
 ## Repository Structure
 ### Data Cleaning and EDA
 -Data loading and initial exploration.
